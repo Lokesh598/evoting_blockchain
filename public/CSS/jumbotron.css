@@ -1,0 +1,51 @@
+body {
+    overflow-y: scroll;
+}
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 460px;
+  }
+    .jumbotron {
+        background-color: #fff;
+        color: #fff;
+        /* padding: 100px 25px; */
+        font-family: Montserrat, sans-serif;
+    }
+  
+  
+  
+  
+  
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  }
+  
+  
+  
+ 
+  
+  
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  }
+  
+  .display-4 {
+    font-size: 2.5rem;
+  }
+  @media (min-width: 768px) {
+    .display-4 {
+      font-size: 3rem;
+    }
+  }
+  
+  
+  
+
+  
+  
